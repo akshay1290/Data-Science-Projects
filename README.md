@@ -37,12 +37,39 @@ Welcome to my Data Science Projects Repository!..
     - **Results:** A functional and user-friendly application that enables non-technical users to perform Decision Tree Regression for predictive modeling.
    - **APP LINK:**[VIEW APP](https://akshay1290-streamlit-app7-app7-06853z.streamlit.app/)
 
+6. [Movie Recommendation System using the TMDB-5000 dataset](https://github.com/akshay1290/Data-Science-Projects/tree/main/Recommendation_systems)
+    -  **Description:** The Movie Recommendation System using the TMDB-5000 dataset is a personalized movie suggestion engine. It utilizes extensive data on movies, including user ratings and metadata, to provide tailored movie recommendations based on user preferences and viewing history.
+    - **Technologies Used:** The notebooks uses TMDB-5000 Dataset, Python, Pandas, Scikit-Learn andAverage Weighted Recommendation Algorithm.
+    - **Results:** Improved user satisfaction through personalized recommendations.
+    
+
+
+7. [Book recomendation saystem ](https://github.com/akshay1290/Data-Science-Projects/tree/main/Recommendation_systems/KNN%20Books%20Recommendation)
+    -  **Description:**  The Book Recommendation System using k-Nearest Neighbors (KNN) leverages the BX-Dataset, a comprehensive collection of book ratings and metadata. It offers personalized book recommendations based on user reading preferences and similarities to other readers.
+    - **Technologies Used:** 
+        - Python for data processing and algorithm implementation.
+        - Pandas for dataset manipulation.
+         - KNN algorithm for finding similar readers and books.
+
+         - BX-Dataset as the foundational data source.
+    - **Results:** 
+        - Enhanced book discovery through personalized recommendations.
+         - Increased user engagement by suggesting books aligned with individual interests.
+         - Improved user satisfaction due to tailored book suggestions.
+         - Accurate recommendations compared to generic book discovery methods.
+
+
 ### Deep Learning Projects 
 
 1. [HOUSE PRICE PREDICTION USING PYTORCH](https://github.com/akshay1290/Data-Science-Projects/tree/main/Deep-Leaning-poject-using-pytorch-main/Deep-Leaning-poject-using-pytorch-main)
     -  **Description:** This project aims to develop a deep learning-based solution for house price prediction using PyTorch. It involves data preprocessing, feature engineering, model development, evaluation, and potentially deployment. The dataset contains various features related to residential properties, and the target variable is the sale price of the houses. The ultimate goal is to create a reliable model that can assist individuals in estimating the market value of houses, which can be valuable for both buyers and sellers in the real estate market.
     - **Technologies Used:** The notebooks uses Deep learning and PyTorch
     - **Results:** Build a deep learning regression model using PyTorch to learn the complex relationships between the input features and the target variable.
+
+2. [FLOWER CLASSIFICATION USING THE MOBILENET V2](https://github.com/akshay1290/Data-Science-Projects/tree/main/FLOWERS-CLASSIFICTAION-WITH-TRANSFER-LEARNING-USING-TENSORFLOW-main)
+    -  **Description:** The Flower Classification System utilizes the MobileNetV2 deep learning model to accurately classify flower images into various species. This advanced computer vision system is designed for efficient and precise flower identification, catering to botanists, gardeners, and enthusiasts.
+    - **Technologies Used:** Powered by Python and TensorFlow, this system employs MobileNetV2 for image classification, leveraging a comprehensive flower image dataset.
+    - **Results:** The Flower Classification System achieves high accuracy in identifying flower species, ensuring fast and efficient processing of flower images. This technology proves valuable for users seeking precise flower recognition, with potential applications beyond flower classification to various image classification tasks.
 
 
 
